@@ -1,0 +1,19 @@
+<xml>
+	<ToUserName><![CDATA[gh_d090606c2eac]]></ToUserName>
+	<FromUserName><![CDATA[okh_bw90lKww0N_uV0ULuUS70_1Q]]></FromUserName>
+	<CreateTime>1575200937</CreateTime>
+	<MsgType><![CDATA[image]]></MsgType>
+	<PicUrl>
+		<![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/BrjPnaQgnaAAyQMQWG19KBbFsmuImNLDgO9PkLKGYacwCmfpKibYfzIuFw82QWXFZselVOEvbdTsZZHicqs9FKGQ/0]]></PicUrl>
+	<MsgId>22551454757052399</MsgId>
+	<MediaId><![CDATA[A59oWVAUhsX__-BrAJRVC_mW-9cMFS8Fe_gsG3EEzY456ZdUZCAfNhAGS5WcjgrL]]></MediaId>
+</xml>
+		<!--
+			ToUserName	开发者微信号
+			FromUserName	发送方帐号（一个OpenID）
+			CreateTime	消息创建时间 （整型）
+			MsgType	消息类型，图片为image
+			PicUrl	图片链接（由系统生成）
+			MediaId	图片消息媒体id，可以调用获取临时素材接口拉取数据。
+			MsgId	消息id，64位整型
+		-->

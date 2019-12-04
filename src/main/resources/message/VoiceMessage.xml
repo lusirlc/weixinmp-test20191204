@@ -1,0 +1,20 @@
+<xml>
+	<ToUserName><![CDATA[gh_d090606c2eac]]></ToUserName>
+	<FromUserName><![CDATA[okh_bw90lKww0N_uV0ULuUS70_1Q]]></FromUserName>
+	<CreateTime>1575201213</CreateTime>
+	<MsgType><![CDATA[voice]]></MsgType>
+	<MediaId><![CDATA[eUA4r8xnMhx9CSiLqJMTWTWC_oawRECl08tdnKcR_mjP9YC4sWvMCoUWEVuL9TUj]]></MediaId>
+	<Format><![CDATA[amr]]></Format>
+	<MsgId>22551459210343851</MsgId>
+	<Recognition><![CDATA[]]></Recognition>
+</xml>
+		<!--
+			ToUserName	开发者微信号
+			FromUserName	发送方帐号（一个OpenID）
+			CreateTime	消息创建时间 （整型）
+			MsgType	语音为voice
+			MediaId	语音消息媒体id，可以调用获取临时素材接口拉取数据。
+			Format	语音格式，如amr，speex等
+			Recognition	语音识别结果，UTF8编码
+			MsgID	消息id，
+		-->
